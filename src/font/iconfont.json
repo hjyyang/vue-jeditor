@@ -1,0 +1,128 @@
+{
+  "id": "2088135",
+  "name": "JEditor",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11539971",
+      "name": "不可见",
+      "font_class": "bukejian",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "593483",
+      "name": "缩小",
+      "font_class": "weibiaoti11",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "965466",
+      "name": "列表",
+      "font_class": "liebiao-copy",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1759262",
+      "name": "放大",
+      "font_class": "fangda",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "1768136",
+      "name": "链接",
+      "font_class": "lianjie",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "2529352",
+      "name": "引号",
+      "font_class": "icon-quote",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "4432318",
+      "name": "颜色",
+      "font_class": "yanse",
+      "unicode": "ea0b",
+      "unicode_decimal": 59915
+    },
+    {
+      "icon_id": "4507573",
+      "name": "斜体",
+      "font_class": "xt",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "5032457",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "5955062",
+      "name": "标题",
+      "font_class": "biaoti",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "6131138",
+      "name": "icon-数字列表",
+      "font_class": "icon-shuziliebiao",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "7609054",
+      "name": "中划线",
+      "font_class": "zhonghuaxian",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "9670367",
+      "name": "粗体",
+      "font_class": "cuti",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "9942540",
+      "name": "下划线",
+      "font_class": "xiahuaxian",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "10168921",
+      "name": "代码",
+      "font_class": "daima",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "10328845",
+      "name": "标记",
+      "font_class": "biaoji",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "11913973",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}

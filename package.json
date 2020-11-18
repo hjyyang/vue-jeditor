@@ -1,0 +1,63 @@
+{
+	"name": "j-editor",
+	"version": "0.0.1",
+	"description": "",
+	"scripts": {
+		"pack": "cross-env NODE_ENV=development webpack --config ./config/webpack.prod.js",
+		"dev": "cross-env NODE_ENV=development webpack-dev-server --config ./config/webpack.dev.js",
+		"start": "webpack --config ./config/webpack.dev.js",
+		"build": "webpack --config ./config/webpack.prod.js",
+		"library": "webpack --config ./config/webpack.library.js"
+	},
+	"keywords": [
+		"webpack",
+		"vue"
+	],
+	"author": "jon",
+	"license": "ISC",
+	"devDependencies": {
+		"@babel/core": "^7.9.6",
+		"@babel/preset-env": "^7.9.6",
+		"@vue/babel-helper-vue-jsx-merge-props": "^1.0.0",
+		"@vue/babel-preset-jsx": "^1.1.2",
+		"autoprefixer": "^9.7.6",
+		"babel-loader": "^8.1.0",
+		"babel-plugin-syntax-jsx": "^6.18.0",
+		"babel-plugin-transform-vue-jsx": "^3.7.0",
+		"clean-webpack-plugin": "^3.0.0",
+		"copy-webpack-plugin": "^6.0.1",
+		"cross-env": "^7.0.2",
+		"css-loader": "^3.5.3",
+		"file-loader": "^6.0.0",
+		"html-webpack-plugin": "^4.2.0",
+		"mini-css-extract-plugin": "^0.9.0",
+		"node-sass": "^4.14.1",
+		"postcss-loader": "^3.0.0",
+		"raw-loader": "^4.0.2",
+		"sass-loader": "^8.0.2",
+		"style-loader": "^1.2.1",
+		"terser-webpack-plugin": "^3.0.1",
+		"url-loader": "^4.1.0",
+		"vue-loader": "^15.9.2",
+		"webpack": "^4.43.0",
+		"webpack-cli": "^3.3.11",
+		"webpack-dev-server": "^3.10.3",
+		"webpack-merge": "^4.2.2"
+	},
+	"dependencies": {
+		"@babel/plugin-transform-runtime": "^7.9.6",
+		"highlight.js": "^10.2.1",
+		"markdown-it": "^11.0.1",
+		"markdown-it-attrs": "^3.0.3",
+		"markdown-it-ins": "^3.0.0",
+		"vue": "^2.6.11",
+		"vue-template-compiler": "^2.6.11"
+	},
+	"browserslist": [
+		"last 10 versions",
+		"Firefox >= 20",
+		"Android >= 4.0",
+		"iOS >= 8",
+		"IE >= 8"
+	]
+}
